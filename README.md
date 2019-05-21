@@ -2,6 +2,6 @@
 
 ## Dev Setup
 To start the server
-`ruby router.rb`
+`ruby interactive_asia_map.rb`
 
 You will see your server running in http://localhost:4567
