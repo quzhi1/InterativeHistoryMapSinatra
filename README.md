@@ -1,5 +1,10 @@
 # Interactive History Map (亚洲互动地图)
 
+## Prerequisite
+```bash
+gem install thin; gem install puma; gem install reel; gem install HTTP; gem install webrick
+```
+
 ## Dev Setup
 To start the server
 `ruby interactive_asia_map.rb`
